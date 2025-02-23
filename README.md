@@ -6,5 +6,5 @@ It can also be used to provide suggestions for next colours from those available
 It uses weightings to determine the best colour choice now to minimise adjacent duplicate colours and colour chains (e.g. red blue red blue).
 (The batch just enables the python to be run quickly from windows cmd.)
 
-tile.scad defines the shape and size of one hexagon and is used by the generated blanket file.
-main.scad views the full blanket.
+- `tile.scad` defines the shape and size of one hexagon and is used by the generated blanket file.
+- `main.scad` views the full blanket.
